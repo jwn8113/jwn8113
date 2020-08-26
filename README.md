@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **lightweight k3s, security in container technologies, zero trust.**
 
-- 📫 How to reach me **jestha.w@hotmail.com**
+- 📫 You can email me at **jestha.wangkheirakpam@springernature.com** for official purpose or **jestha.w@hotmail.com** for otherwise.
 
 - ⚡ Fun fact, I play **guitar** in my lesser time, **cook delicious oriental food**
 
